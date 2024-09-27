@@ -1,0 +1,80 @@
+[
+  {
+    "name": ["Delhi", false],
+    "quantity": 2458,
+    "date": "12.Jan.2021",
+    "progress": -1.68
+  },
+  {
+    "name": ["Mumbai", true],
+    "quantity": 1485,
+    "date": "21.Feb.2021",
+    "progress": -1.00
+  },
+  {
+    "name": ["Bangalore", true],
+    "quantity": 1024,
+    "date": "13.Mar.2021",
+    "progress": -6.82
+  },
+  {
+    "name": ["Chennai", true],
+    "quantity": 858,
+    "date": "24.Jan.2021",
+    "progress": -4.67
+  },
+  {
+    "name": ["Kolkata", false],
+    "quantity": 258,
+    "date": "Oct 24, 2022",
+    "progress": -13.33
+  },
+  {
+    "name": ["Hyderabad", false],
+    "quantity": 320,
+    "date": "Oct 24, 2022",
+    "progress": -8.57
+  },
+  {
+    "name": ["Pune", false],
+    "quantity": 410,
+    "date": "12.Jan.2021",
+    "progress": -18.00
+  },
+  {
+    "name": ["Ahmedabad", false],
+    "quantity": 580,
+    "date": "21.Feb.2021",
+    "progress": -3.33
+  },
+  {
+    "name": ["Jaipur", false],
+    "quantity": 720,
+    "date": "13.Mar.2021",
+    "progress": -10.00
+  },
+  {
+    "name": ["Lucknow", false],
+    "quantity": 300,
+    "date": "24.Jan.2021",
+    "progress": -25.00
+  },
+  {
+    "name": ["Surat", false],
+    "quantity": 470,
+    "date": "Oct 24, 2022",
+    "progress": -6.00
+  },
+  {
+    "name": ["Indore", false],
+    "quantity": 215,
+    "date": "Oct 24, 2022",
+    "progress": -14.00
+  },
+  {
+    "name": ["Bhopal", false],
+    "quantity": 90,
+    "date": "Oct 24, 2022",
+    "progress": -10.00
+  }
+]
