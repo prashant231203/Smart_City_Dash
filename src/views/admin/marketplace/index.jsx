@@ -23,7 +23,7 @@ export default function Marketplace() {
     // Initialize the map with the new style
     const map = new mapboxgl.Map({
       container: 'map', // container ID
-      style: 'mapbox://styles/mrcheese23/cm1jrlnj500fj01qrgzdt46qm', // Updated style
+      style: 'mapbox://styles/mrcheese23/cm1lbwlzt00ji01qrfe1rgnkl', // Updated style
       projection: 'globe',
       zoom: 1,
       center: [30, 15],
